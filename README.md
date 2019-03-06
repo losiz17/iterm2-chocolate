@@ -26,5 +26,8 @@ $ git clone https://github.com/losiz17/iterm2-chocolate
 iTerm2.app > Preferences > Profiles > Colors > Color Presets... > Import...
 
 
+3. choose chocolate.itermcolors
+
+
 
 
